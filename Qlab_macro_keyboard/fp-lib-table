@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "CherryMX")(type "KiCad")(uri "C:/Users/muehl/Documents/Git/Kicad_librarys/mx_switches_sym_footprint/footprints/CherryMX.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB_LIST_A683CEGBW")(type "KiCad")(uri "C:/Users/muehl/Documents/Git/Kicad_librarys/mx_switches_sym_footprint/footprints/CherryMX_PCB_LTST-A683CEGBW.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_PCB_StabWireBottom_LTST-A683CEGBW")(type "KiCad")(uri "C:/Users/muehl/Documents/Git/Kicad_librarys/mx_switches_sym_footprint/footprints/CherryMX_PCB_StabWireBottom_LTST-A683CEGBW.pretty")(options "")(descr ""))
+  (lib (name "CherryMX_StabWireBottom")(type "KiCad")(uri "C:/Users/muehl/Documents/Git/Kicad_librarys/mx_switches_sym_footprint/footprints/CherryMX_StabWireBottom.pretty")(options "")(descr ""))
+)
